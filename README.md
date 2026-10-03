@@ -9,6 +9,11 @@ where automated systems quietly get it wrong.
 
 ### Writing
 
+**[More data, fewer tokens](https://github.com/chodizzle/agent-research-cost)**
+A research agent that chose which queries to run burned 697K input tokens and up to
+42 turns on a single diagnosis. Running every query up front and reasoning once cut
+that to 21K tokens and 24 seconds, and collapsed a 10x cost swing into a 1.4x band.
+
 **[What it cost to put 15 restaurants on real food costing](https://chodizzle.github.io/avt-implementation/)**
 A line-item breakdown of a 2017 actual-vs-theoretical implementation,
 scored against which lines an AI agent removes today. The two failure
