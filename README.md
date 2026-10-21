@@ -21,6 +21,12 @@ exhibits are about clean text, high confidence, and a wrong number.
 
 ### Projects
 
+**[Receipt Search for Costco](https://chromewebstore.google.com/detail/receipt-search-for-costco/hhagapdpkgbnaedlhenonmodghfkhnko)** — A
+Chrome extension, live on the Chrome Web Store, that pulls up to 3 years of Costco
+warehouse receipts and online orders through the site's own order API and puts every
+item behind one search box, with per-item purchase history and spend. No servers: the
+data never leaves the browser. ([source](https://github.com/chodizzle/receipt-search-for-costco))
+
 **[Recipe Flowchart](https://chodizzle.github.io/recipe_flowchart/)** — Dependency
 graphs from unstructured recipe text across 6 models and 3 providers, with a
 taxonomy-driven eval loop for a task that has no single right answer. Prompt
